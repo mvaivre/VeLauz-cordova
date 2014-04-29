@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>PhoneGap Example</name>
+    <name>VeLauz</name>
 
     <description>
-        An example for phonegap build docs. 
+        Le couteau suisse des cyclistes Lausannois.
     </description>
 
     <author href="https://velauz.meteor.com" email="mvaivre@gmail.com">
@@ -18,6 +18,8 @@
     </author>
 
     <access origin="*"/>
+
+    <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
 
     <!-- to enable individual permissions use the following examples -->
     <feature name="http://api.phonegap.com/1.0/battery"/>
