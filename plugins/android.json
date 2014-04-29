@@ -1,0 +1,15 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "dk.gi2.plugins.MeteorCordova": {
+            "PACKAGE_NAME": "co.biergarten.velauz"
+        }
+    },
+    "dependent_plugins": {}
+}
