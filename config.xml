@@ -10,5 +10,6 @@
     <content src="index.html" />
     <access origin="*" />
 
-	<gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
 </widget>
+
+<gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
